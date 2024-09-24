@@ -36,7 +36,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Limule3650}/count.svg" alt="Limule3650 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l" target="_blank">
+ <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k" target="_blank">
     <img alt="whatsapp Channel" src="https://img.shields.io/badge/ Whatsapp Support Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=Blue" />
   </a>
 </p>
