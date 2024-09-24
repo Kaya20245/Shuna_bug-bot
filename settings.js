@@ -30,7 +30,7 @@ global.themeemoji = '🪀'
 global.wm = "Limule Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
